@@ -76,8 +76,8 @@ Full details, discussion, limitations, and comparison with related literature ar
 
 ```bash
 # Clone the repository
-git clone <repository-url>
-cd <repository-name>
+git clone <https://github.com/tcoder14/credit_card_fraud_detection>
+cd <credit_card_fraud_detection>
 
 # Install dependencies
 pip install pandas numpy scikit-learn xgboost lightgbm matplotlib jupyter
